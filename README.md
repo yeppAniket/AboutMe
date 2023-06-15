@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniket or @sushiGrenny 
+- 👋 Hi, I’m Aniket
 - 👀 I’m interested in Machine learning, Deep learning and Data science
 - 🌱 I’m currently learning reinforcement learning
 - 💞️ I’m looking to collaborate on any project which I can contribute to
