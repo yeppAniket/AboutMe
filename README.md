@@ -49,8 +49,9 @@
 - 📍 Bengaluru, India
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="divider gif" />
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="220" alt="hacker cat bongo gif" />
 </p>
+
 
 ## 🛰️ What I'm up to
 - 🔭 Building around **reliable AI systems** (monitoring, evaluation, and “does this break at 2am?” tooling)
