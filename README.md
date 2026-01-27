@@ -114,10 +114,11 @@ echo "- privacy-first architecture: offline-first, minimal data"
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yeppAniket&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yeppAniket&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400"
     alt="GitHub streak"
   />
 </p>
+
 
 ---
 
