@@ -49,7 +49,7 @@
 - 📍 Bengaluru, India
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="divider gif" />
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292)" width="320" alt="divider gif" />
 </p>
 
 ## 🛰️ What I'm up to
