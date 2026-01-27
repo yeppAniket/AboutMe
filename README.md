@@ -100,12 +100,17 @@ echo "- hybrid retrieval + metadata filtering + eval loops"
 echo "- agent workflows that behave under load"
 echo "- LLM cost control: caching, batching, routing"
 echo "- privacy-first architecture: offline-first, minimal data"
+```
 </details>
 📈 Stats corner
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight" alt="stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight" alt="top langs" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=yeppAniket&theme=tokyonight" alt="streak" /> </p>
+
 🤝 Say hi
 
 📫 aniketmishra717@gmail.com
  · 🌐 aniketmishra.work · 📄 Resume: https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view
 
+
+If you want, I can also replace the divider GIF with a **sleeker neon “wave line”** or a **pixel loading bar** (those look *very* terminal-ish).
 ::contentReference[oaicite:0]{index=0}
+</details>
