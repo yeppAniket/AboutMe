@@ -113,10 +113,14 @@ echo "- privacy-first architecture: offline-first, minimal data"
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yeppAniket&theme=tokyonight" alt="streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yeppAniket&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
 
 ## 🤝 Say hi
-📫 **aniketmishra717@gmail.com** · 🌐 **aniketmishra.work** · 📄 **Resume**: https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view
+📫 [aniketmishra717@gmail.com](mailto:aniketmishra717@gmail.com) · 🌐 [aniketmishra.work](https://www.aniketmishra.work) · 📄 [Resume](https://drive.google.com/file/d/1uLllpyS9K2vikJ2Wmx10V5JQrgLHmskE/view)
+
