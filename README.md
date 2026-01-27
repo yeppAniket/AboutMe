@@ -1,118 +1,112 @@
-<!--
-Profile README for @yeppAniket
-Style: calm, minimal, a little playful. Interactive bits = collapsible sections + live cards.
--->
+<!-- Profile README for @yeppAniket -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Aniket%20Mishra&fontAlign=50&fontAlignY=40&fontSize=42&desc=Software%20Engineer%20%C2%B7%20Backend%20%2F%20Platform%20%C2%B7%20GenAI%20Builder&descAlign=50&descAlignY=65&animation=fadeIn&color=0:0b1220,100:111827" alt="header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Aniket%20Mishra&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Backend%20%2F%20Platform%20%C2%B7%20GenAI%20Builder%20%C2%B7%20Privacy-first%20systems&descSize=16&descAlignY=70"
+    alt="Aniket Mishra banner"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=820&lines=I+build+privacy-first+tools%2C+quiet+software%2C+and+systems+that+actually+ship.;Backend+%2F+Platform+%7C+Distributed+workflows+%7C+RAG+%2F+LLMs.;Build+for+failure%2C+make+tradeoffs+explicit%2C+design+systems+others+can+run." alt="typing intro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=I+build+privacy-first+tools%2C+quiet+software%2C+and+systems+that+ship.;Backend+%2F+Platform+%7C+RAG+%2F+LLMs+%7C+Distributed+workflows.;Reliability+%3E+vibes.+Observability+%3E+guessing."
+    alt="typing"
+  />
 </p>
 
 <p align="center">
-  <a href="https://www.aniketmishra.work"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:aniketmishra717@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aniket-mishra-264ab9202/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/aniketmishra717/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding gif"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeppAniket&style=flat-square&color=0b1220" alt="profile views" />
-</p>
-
----
-
-### 🌙 What I’m about
-- **Backend / Platform engineer** who likes *predictable systems* more than flashy demos.
-- I build **privacy-first products** + **LLM/RAG systems** that ship with guardrails.
-- Based in **Bengaluru, India**.
-
----
-
-### ⚡ Highlights (real-world)
-- Scaled an enterprise assistant platform to **100K+ users**, focusing on **reliability + operability**.
-- Built production APIs with **99%+ uptime**, using logs/traces/metrics + on-call playbooks.
-- Optimized async workflows (queues/workers): **~30% lower end-to-end latency**.
-- Worked on retrieval: hybrid dense+sparse + metadata filtering → **~25% relevance uplift**.
-- Graph-RAG style improvements: batching/caching → **~40% lower LLM cost**.
-- Solved **500+ DSA problems** (because pain builds character).
-
----
-
-### 🧰 Toolbox
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,django,postgres,mysql,mongodb,redis,kafka,docker,gcp,azure&perline=8" />
+  <a href="https://www.aniketmishra.work">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:aniketmishra717@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-mishra-264ab9202/">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aniketmishra717/">
+    <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=111827" />
   </a>
 </p>
 
----
-
-## 🗄️ Project shelf (shipped + experiments)
-> Calm products, clean backend, fun experiments.
-
-### ✅ Shipped
-- **Trace (iOS)** — minimalist goals + journaling, *privacy-first*, GitHub-style heatmap  
-  → https://apps.apple.com/in/app/trace-goals-journal/id6757742269
-- **Discuss** — spoiler-safe episode discussions + trending discovery  
-  → https://discussapp-one.vercel.app/
-- **Quick Insight (Chrome Extension)** — instant LLM explanations for selected text  
-  → https://chromewebstore.google.com/detail/quick-insight/lcbicnjpbkjjcgcfagafnlepgeiefogh
-- **Snake Game (Custom)** — tiny nostalgia, clean logic  
-  → https://github.com/yeppAniket/Snake-game-custom
-
-### 🧪 Experiments / WIP
-- **ToonShortsAI** — pipeline for consistent YouTube Shorts generation  
-  → https://everwild-shorts-921055227274.us-west1.run.app/
-- **Extract Fashion Trends** — social signal → trend extraction experiments  
-  → https://github.com/yeppAniket/Extract-fashion-trends-from-social-media
-- **FrontPage.ai** — AI news backend (WIP)  
-  → (link from portfolio) https://www.aniketmishra.work
-
----
-
-## 🧭 How I build (click to expand)
-<details>
-  <summary><b>Principles I try to live by</b></summary>
-
-- **Build for failure, not just success**
-- **Make tradeoffs explicit** (accuracy · latency · cost)
-- **Design systems others can run**, not just admire
-- Prefer “boring tech” + strong observability over cleverness
-</details>
-
-<details>
-  <summary><b>What I’m currently interested in</b></summary>
-
-- Retrieval quality (hybrid search, filtering, eval loops)
-- Agent workflows that behave under load
-- Privacy-first product architecture (offline-first, minimal data)
-- Cost control for LLM features (caching, batching, routing)
-</details>
-
-<details>
-  <summary><b>Fun facts (tiny)</b></summary>
-
-- I got into computers by flashing ROMs, breaking things, and fixing them.
-- I like story-based games and collecting notes on craft.
-</details>
-
----
-
-## 📈 The numbers corner
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact" alt="top langs" />
+  <img src="https://komarev.com/ghpvc/?username=yeppAniket&style=for-the-badge&color=22c55e" alt="views" />
+</p>
+
+---
+
+## 🧠 About me (the non-boring version)
+- 🛠️ Backend / Platform engineer who likes **predictable systems** more than flashy demos  
+- 🤖 I ship **LLM/RAG features** with guardrails, evaluation loops, and cost control  
+- 🔒 Big on **privacy-first** products + calm UX  
+- 📍 Bengaluru, India
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="260" alt="moving divider" />
+</p>
+
+## ⚡ Highlights
+- 🧑‍💻 Enterprise assistant platforms used by **100K+ users**
+- 📈 Production services with **99%+ uptime**
+- 🚀 Async workflows / queues → **~30% lower latency**
+- 🔎 Retrieval improvements (hybrid + filtering) → **~25% relevance uplift**
+- 💸 Graph-RAG optimizations (batching/caching) → **~40% lower LLM cost**
+- 🧩 **500+ DSA** problems solved (I love pain)
+
+---
+
+## 🧰 Tech I actually use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,nodejs,postgres,mysql,mongodb,redis,kafka,docker,gcp,azure&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yeppAniket" alt="streak" />
+  <img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agents-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cost%20Optimization-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Privacy--First-111827?style=for-the-badge&logo=protonvpn&logoColor=white" />
+</p>
+
+---
+
+## 🧭 How I build (click me)
+<details>
+  <summary><b>My default engineering principles</b> ✨</summary>
+
+- Build for failure, not just success  
+- Make tradeoffs explicit (**accuracy · latency · cost**)  
+- Observability is a feature (logs + traces + metrics)  
+- Prefer boring tech + clean ops over cleverness  
+</details>
+
+<details>
+  <summary><b>What I’m exploring right now</b> 🧪</summary>
+
+- Retrieval quality: hybrid search, metadata filters, eval loops  
+- Agent workflows that behave under load  
+- LLM cost control: caching, batching, routing  
+- Privacy-first architecture: offline-first, minimal data  
+</details>
+
+---
+
+## 📈 Stats corner (because GitHub needs numbers)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeppAniket&show_icons=true&hide_title=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeppAniket&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeppAniket&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ## 🤝 Say hi
-If you’re building **backend / platform / GenAI products** and you care about **reliability + craft**, I’d love to chat.  
-📫 **aniketmishra717@gmail.com** · 🌐 **https://www.aniketmishra.work**
+If you're building backend/platform/GenAI products and you care about reliability + craft:  
+📫 **aniketmishra717@gmail.com** · 🌐 **aniketmishra.work**
