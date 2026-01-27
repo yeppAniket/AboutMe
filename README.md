@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhjczlrenVjczE2YmJqYTV3ejdtczBvOGxjeGd6bWViODJkb3llbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="420" alt="coding gif"/>
 </p>
 
 <p align="center">
@@ -113,11 +113,9 @@ echo "- privacy-first architecture: offline-first, minimal data"
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yeppAniket&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400"
-    alt="GitHub streak"
-  />
+  <img src="https://streak-stats.vercel.app/?user=yeppAniket&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
 
 
 ---
